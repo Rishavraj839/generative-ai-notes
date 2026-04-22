@@ -11,3 +11,12 @@ complete notes for learning purpose only
 ## Transformer
 
 [Transformer notes](https://github.com/krishnaik06/Transformers-Materials/blob/main/transformers.pdf)
+
+
+## Machine Learning
+[]()
+
+## Deep Learning
+
+[]()
+
