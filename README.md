@@ -28,7 +28,9 @@ complete notes for learning purpose only
 ## RAG + Agent_Tools
 
 [RAG Notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/RAG.pdf)
-[TOOLS Notes]()
+
+
+[TOOLS Notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/AGENT_TOOLS.pdf)
 
 ## Fine Tuning
 []()
