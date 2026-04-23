@@ -6,11 +6,11 @@ complete notes for learning purpose only
 [Python bootcamp](https://github.com/krishnaik06/Complete-Python-Bootcamp)
 
 ## Machine Learning
-[]()
+[ML Notes](https://github.com/Rishavraj839/The-Grand-Complete-Data-Science-Materials/blob/main/Machine%20Learning/Types%20Of%20ML%20Techniques/2-Typesof%20ML%20technqiues.pdf)
 
 ## Deep Learning
 
-[]()
+[DL Notes](https://github.com/Rishavraj839/The-Grand-Complete-Data-Science-Materials/blob/main/Complete%20Deep%20Learning/1-4%20Deep%20learnng.pdf)
 
 
 
