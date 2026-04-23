@@ -1,7 +1,7 @@
 # generative-ai-notes
 complete notes for learning purpose only
 
-##Python
+## Python
 
 [Python bootcamp](https://github.com/krishnaik06/Complete-Python-Bootcamp)
 
