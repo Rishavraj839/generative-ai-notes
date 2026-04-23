@@ -10,7 +10,7 @@ complete notes for learning purpose only
 
 ## Transformer
 
-[Transformer notes](https://github.com/krishnaik06/Transformers-Materials/blob/main/transformers.pdf)
+[Transformer notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/Transformer.pdf)
 
 
 ## Machine Learning
