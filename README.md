@@ -36,4 +36,8 @@ complete notes for learning purpose only
 []()
 
 
+## MLops
+[MLops Notes](https://github.com/iam-veeramalla/mlops-zero-to-hero)
+
+
 
