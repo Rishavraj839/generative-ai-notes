@@ -38,7 +38,10 @@ complete notes for learning purpose only
 
 ## MLops
 [MLops Notes](https://github.com/iam-veeramalla/mlops-zero-to-hero)
+
 [Kubernetes Notes](https://github.com/iam-veeramalla/Intent-classifier-model.git)
+
+[Dockers Notes](https://github.com/iam-veeramalla/Docker-Zero-to-Hero.git)
 
 
 
