@@ -41,7 +41,10 @@ complete notes for learning purpose only
 
 [Kubernetes Notes](https://github.com/iam-veeramalla/Intent-classifier-model.git)
 
-[Dockers Notes](https://github.com/iam-veeramalla/Docker-Zero-to-Hero.git)
+
+[Dockers Notes 1](https://github.com/krishnaik06/Docker-For-Data-Science/blob/main/dockerss.pdf)
+
+[Dockers Notes 2](https://github.com/iam-veeramalla/Docker-Zero-to-Hero.git)
 
 
 
