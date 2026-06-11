@@ -32,6 +32,8 @@ complete notes for learning purpose only
 
 [TOOLS Notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/AGENT_TOOLS.pdf)
 
+[MCP](https://github.com/krishnaik06/MCP-CRASH-Course/blob/main/finalmcp.pdf)
+
 ## Fine Tuning
 [Fine_tuning_notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/Fine_Tuning.pdf)
 
