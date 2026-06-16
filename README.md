@@ -22,12 +22,16 @@ complete notes for learning purpose only
 [Transformer notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/Transformer.pdf)
 
 
-## Langchain
+## Langchain and Langgraph
 [Langchain notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/LANGCHAIN.pdf)
+
+[Langgraph Notes](https://github.com/Sandesh-hase/Langgraph-Tutorial/blob/main/02-Conditional-Graph.ipynb)
 
 ## RAG + Agent_Tools
 
 [RAG Notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/RAG.pdf)
+
+[Agentic RAG]()
 
 
 [TOOLS Notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/AGENT_TOOLS.pdf)
