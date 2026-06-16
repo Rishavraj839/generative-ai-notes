@@ -31,7 +31,7 @@ complete notes for learning purpose only
 
 [RAG Notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/RAG.pdf)
 
-[Agentic RAG]()
+[Agentic RAG](https://github.com/Rishavraj839/generative-ai-notes/blob/main/Agentic_RAG.pdf)
 
 
 [TOOLS Notes](https://github.com/Rishavraj839/generative-ai-notes/blob/main/AGENT_TOOLS.pdf)
