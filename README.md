@@ -41,7 +41,7 @@ complete notes for learning purpose only
 
 ## FastAPI/Pydantic
 
-[Pydantic](file:///Users/rajrishav/Downloads/pydantic_concept_notes.html)
+[Pydantic](https://rishavraj839.github.io/generative-ai-notes/pydantic_concept_notes.html)
 
 
 ## Fine Tuning
