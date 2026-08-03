@@ -43,7 +43,7 @@ complete notes for learning purpose only
 
 [Pydantic](https://rishavraj839.github.io/generative-ai-notes/pydantic_concept_notes.html)
 
-https://rishavraj839.github.io/generative-ai-notes/pydantic_concept_notes.html
+
 
 
 ## Fine Tuning
